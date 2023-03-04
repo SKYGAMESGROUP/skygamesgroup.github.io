@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1677683144
+#1677944483
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -202,6 +202,7 @@ images/sprite7-sheet0.png
 images/sprite9-sheet0.png
 images/sprite10-sheet0.png
 images/sprite11-sheet0.png
+images/sprite15-sheet0.png
 media/artillery_unit_fire_05.m4a
 media/artillery_unit_fire_05.ogg
 media/select_army_01.m4a
@@ -266,31 +267,10 @@ media/ui_research_tab_infantry_02.m4a
 media/ui_research_tab_infantry_02.ogg
 media/ui_research_tab_infantry_03.m4a
 media/ui_research_tab_infantry_03.ogg
-media/allies_peace_morningofdday.ogg
-media/allies_war_theroyalairforce.ogg
 media/axis_peace_krakow.ogg
-media/wearesoldiers.ogg
-media/general_war_bringforththetanks.ogg
 media/amb_neutral_wind_01.m4a
 media/amb_neutral_wind_01.ogg
-media/war_axis_1_daysofthunder.ogg
-media/operationbarbarossa.ogg
-media/general_war_theattack.ogg
 media/endofthetour.ogg
-media/chamberlain%20-%20declaration%20of%20war.ogg
-media/chamberlain%20-%20peace%20in%20our%20time.ogg
-media/churchill%20-%20blood,%20toil,%20tears%20and%20sweat.ogg
-media/churchill%20-%20their%20finest%20hour.ogg
-media/churchill%20-%20we%20shall%20fight%20on%20the%20beaches.ogg
-media/eisenhower%20-%20order%20of%20the%20day.ogg
-media/macarthur%20-%20i%20have%20returned.ogg
-media/macarthur%20-%20today%20the%20guns%20are%20silent.ogg
-media/roosevelt%20-%20a%20day%20which%20will%20live%20in%20infamy.ogg
-media/roosevelt%20-%20the%20great%20arsenal%20of%20democracy.ogg
-media/stalin%20-%20history%20shows%20that%20there%20are%20no%20invincible%20armies.ogg
-media/truman%20-%20warning%20to%20japan.ogg
-media/zhukov%20-%20victory%20parade.ogg
-media/rec_20230221215036996.ogg
 media/1.ogg
 media/2.ogg
 media/3.ogg
